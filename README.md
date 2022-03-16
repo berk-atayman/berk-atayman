@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berk-atayman
 - 👀 I’m interested in Frontend & UI/UX Design
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Science & Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me berkatayman@gmail.com
 
